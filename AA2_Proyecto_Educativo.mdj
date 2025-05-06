@@ -19,6 +19,22 @@
 					},
 					"name": "Business Use Cases",
 					"defaultDiagram": true
+				},
+				{
+					"_type": "UMLPackage",
+					"_id": "AAAAAAGWp9np90i7eZs=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "Casos_Negocio"
+				},
+				{
+					"_type": "UMLPackage",
+					"_id": "AAAAAAGWp9sZFkjAQto=",
+					"_parent": {
+						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
+					},
+					"name": "Actores_Negocio"
 				}
 			],
 			"stereotype": {
@@ -6381,6 +6397,54 @@
 					},
 					"name": "Business Analysis",
 					"defaultDiagram": true
+				},
+				{
+					"_type": "UMLPackage",
+					"_id": "AAAAAAGWp9uMw0jGVyc=",
+					"_parent": {
+						"$ref": "AAAAAAF+kFuXBWoWvBc="
+					},
+					"name": "DiagramasClases"
+				},
+				{
+					"_type": "UMLPackage",
+					"_id": "AAAAAAGWp9wkCkjMwAQ=",
+					"_parent": {
+						"$ref": "AAAAAAF+kFuXBWoWvBc="
+					},
+					"name": "DiagramasActividades"
+				},
+				{
+					"_type": "UMLPackage",
+					"_id": "AAAAAAGWp9yCCUjRRx8=",
+					"_parent": {
+						"$ref": "AAAAAAF+kFuXBWoWvBc="
+					},
+					"name": "TrabajadoresNegocio"
+				},
+				{
+					"_type": "UMLPackage",
+					"_id": "AAAAAAGWp9zCFEjVv5M=",
+					"_parent": {
+						"$ref": "AAAAAAF+kFuXBWoWvBc="
+					},
+					"name": "EntidadesNegocio"
+				},
+				{
+					"_type": "UMLPackage",
+					"_id": "AAAAAAGWp9z63EjZHdQ=",
+					"_parent": {
+						"$ref": "AAAAAAF+kFuXBWoWvBc="
+					},
+					"name": "EntidadesNegocio"
+				},
+				{
+					"_type": "UMLPackage",
+					"_id": "AAAAAAGWp93a1UjdA5c=",
+					"_parent": {
+						"$ref": "AAAAAAF+kFuXBWoWvBc="
+					},
+					"name": "RealizacionesNegocio"
 				}
 			],
 			"stereotype": {
