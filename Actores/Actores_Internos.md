@@ -66,3 +66,19 @@ A continuación se listan los roles internos en el negocio educativo "A Cocachos
 
 - **Eventos:**  
   Encargado de la organización de eventos institucionales.
+
+# Categoría de Roles en Roles Descriptivos
+
+- **Director General**: No aplica
+- **Responsable de Secretaría Académica**: Curricular
+- **Psicóloga Escolar**: No aplica
+- **Coordinador Académico**: No aplica
+- **Docente(s) de Control de Asistencia**: No aplica
+- **Equipo de Evaluación Académica y Pedagógica**: Evaluador
+- **Responsable de Consolidación de Promedios**: Consolidación
+- **Encargado de Planificación Curricular y Validación Pedagógica**: Curricular
+- **Responsable de Evaluación Docente**: Evaluador
+- **Encargado de Tesorería**: Tesorería
+- **Responsable de Mantenimiento y Seguridad**: Mantenimiento
+- **Encargado de Relación con Padres**: Relaciones
+- **Responsable de Organización de Eventos Institucionales**: Eventos
