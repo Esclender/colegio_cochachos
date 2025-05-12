@@ -32121,7 +32121,7 @@
 															"left": 366,
 															"top": 431,
 															"width": 55,
-															"height": 30,
+															"height": 20,
 															"text": "Agregar a la lista espera",
 															"wordWrap": true
 														},
@@ -32160,7 +32160,7 @@
 													"left": 361,
 													"top": 424,
 													"width": 65,
-													"height": 42,
+													"height": 32,
 													"stereotypeLabel": {
 														"$ref": "AAAAAAGWwQw4CpDXbuk="
 													},
@@ -46539,7 +46539,7 @@
 															"left": 61,
 															"top": 847,
 															"width": 127,
-															"height": 39,
+															"height": 26,
 															"text": "Recibir notificación de evaluación adicional",
 															"wordWrap": true
 														},
@@ -46578,7 +46578,7 @@
 													"left": 56,
 													"top": 840,
 													"width": 137,
-													"height": 51,
+													"height": 38,
 													"stereotypeLabel": {
 														"$ref": "AAAAAAGWwQ1RV6SxQEo="
 													},
@@ -52998,7 +52998,7 @@
 					"_parent": {
 						"$ref": "AAAAAAF+kFuXBWoWvBc="
 					},
-					"name": "TrabajadoresYDiagramas",
+					"name": "TrabajadoresYDiagramas2",
 					"ownedViews": [
 						{
 							"_type": "UMLClassView",
